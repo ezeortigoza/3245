@@ -37,6 +37,19 @@ body {
 .image {
   background-image: url(https://onfit.com.ar/images/parallax/homepage-01.jpg); }
 
+img:hover {
+  text-decoration: none;
+  background: #020024;
+  background: #9b5c5c; }
+
+.face:hover {
+  text-decoration: none;
+  color: #3b5998; }
+
+.ig:hover {
+  text-decoration: none;
+  color: #c13584; }
+
 * {
   margin: 0;
   padding: 0; }
