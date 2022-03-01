@@ -1,7 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+
 @mixin tamaño ($anchuraa, $altura) {
     width: $anchuraa;
     height: $altura;  

@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+  padding: 0; }
+
 h1 {
   color: red; }
 
@@ -49,10 +53,6 @@ img:hover {
 .ig:hover {
   text-decoration: none;
   color: #c13584; }
-
-* {
-  margin: 0;
-  padding: 0; }
 
 .logo {
   width: 50px;
