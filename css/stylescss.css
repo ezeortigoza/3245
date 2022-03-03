@@ -38,9 +38,6 @@ body {
 #alto {
   height: 10px; }
 
-.image {
-  background-image: url(https://onfit.com.ar/images/parallax/homepage-01.jpg); }
-
 img:hover {
   text-decoration: none;
   background: #020024;
